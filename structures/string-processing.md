@@ -2,7 +2,7 @@
 
 ## 3.1 Delation
 
-Let's start with some string processing algorithms. The first string processing algorithm is deletion. I'm not actually writin codes for finding the index and deleting the character at that index with user functions. I'm just using the built-in functions of the string class. Feel free to write your own functions.
+Let's start with some string processing algorithms. The first string processing algorithm is deletion. I'm not actually writing codes for finding the index and deleting the character at that index with user functions. I'm just using the built-in functions of the string class. Feel free to write your own functions.
 
 ```cpp
 #include<iostream>
@@ -25,7 +25,7 @@ int main()
 }
 ```
 
-And instead of built in function, you can also rewrite your own functions! Here's an example,
+Instead of built in function, you can also rewrite your own functions! Here's an example,
 
 ```cpp
 #include<iostream>
